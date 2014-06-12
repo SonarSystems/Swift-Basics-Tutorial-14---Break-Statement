@@ -1,4 +1,4 @@
-Swift-Basics-Tutorial-14---Break-Statement
+Swift Basics Tutorial 14 - Break Statement
 ==========================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/7WfFgrQKjGU
